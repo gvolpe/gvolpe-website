@@ -1,0 +1,125 @@
+# Header
+## About Page: `hexo new page about`
+menu:
+  HOME:   /
+  TALKS:  /talks
+  FLOSS:  /floss
+
+# Link to your avatar
+avatar: img/profile.jpg
+
+# Small icon of Your site
+favicon: img/favicon-tux.png
+
+# Social info. Bar |
+## Keep "mailto:" in Email
+## Encrypt email http://ctrlq.org/encode/
+## RSS requires a plugin to take effect
+## https://github.com/hexojs/hexo-generator-feed
+subnav:
+  github: "https://github.com/gvolpe"
+  twitter: "https://twitter.com/volpegabriel87"
+  reddit: "https://www.reddit.com/user/volpegabriel/"
+  linkedin: "https://www.linkedin.com/in/gmvolpe/"
+  # facebook: "#"
+  # rss: /atom.xml
+  # pinterest: "#"
+  # QQ: "#"
+  # wechat: "#"
+  # douban: "#"
+  # pinboard: "#"
+  # stackoverflow: "#"
+  # Instagram: "#"
+  # segmentfault: "#"
+
+# Background
+## "background_sum": show images from /source/background/
+## "on: true":
+## "on: false": background_image: 5
+background:
+  on: true
+  background_image: 109
+
+highlight_style:
+  on: true
+  inline_code: 5
+  code_block: 5
+  # Set inline_code to style highlight text
+  # Chose a highlight theme for code block
+  # inline_code Value: 0 - 9
+  # code_block  Value: 0 - 4
+
+blockquote_style:
+  #on: true
+  blockquote: 1  # Value: 0 - 7
+
+# px
+left_col_width: 300
+
+# Keep TOC title on the same line |
+toc_nowrap: false
+
+# Customize the text on excerpt link
+excerpt_link: more>>
+
+# Search Box in left column
+# search_box: true
+
+# Animation in Homepage and Loading avatar
+animate: true
+
+# >>> Small features <<<
+
+# Birdhouse button in left column
+tagcloud: false
+
+# Blogroll, Link exchange
+# friends: false
+# friends:
+  #name: http://gvolpe.github.io/
+
+aboutme: false
+
+# Open ALL link in a new tab
+open_in_new: false
+
+# Customize feed link
+# rss: /atom.xml
+
+# >>> Vendors <<<
+
+# images viewer
+## http://www.fancyapps.com/fancybox/
+fancybox: true
+
+# Display Math(LaTeX, MathML...)
+## https://www.mathjax.org/
+mathjax: false
+
+# Socail Share
+# share: true
+#baidushare: true
+#showshare: true
+
+# Site Verification for Google and Baidu. HTML label content.
+google_site: # pFW527fHrjfI0si2w4NQ0w3cTw12AvvuohAu1PUfqKA
+baidu_site: #c167b9feb4f0b208b712c79629c188e4
+
+# Fill in Google Analytics tracking ID, #e.g. UA-XXXXX-X, or Baidu Analytics hash key
+google_analytics:
+baidu_analytics:
+
+# http://ibruce.info/2015/04/04/busuanzi/
+visit_counter:
+  on: true
+  site_visit: # number of visits
+  page_visit: # read this page
+
+TipTitle: true
+
+# Loading
+# Loading: true
+
+# Theme comments
+disqus:
+  on: false
