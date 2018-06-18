@@ -5,9 +5,10 @@ date: 2018-04-28 11:55:34
 
 ### Library Author
 
-[![fs2-rabbit](/img/floss/fs2-rabbit.png)](https://gvolpe.github.io/fs2-rabbit/)   [![http4s-tracer](/img/floss/generic.png)](https://github.com/gvolpe/http4s-tracer)
+[![fs2-rabbit](/img/floss/fs2-rabbit.png)](https://gvolpe.github.io/fs2-rabbit/)   [![fs2-redis](/img/floss/fs2-redis.png)](https://gvolpe.github.io/fs2-redis/)   [![http4s-tracer](/img/floss/generic.png)](https://github.com/gvolpe/http4s-tracer)
 
-- [fs2-rabbit](https://gvolpe.github.io/fs2-rabbit/): a stream-based client for RabbitMQ built on top of Fs2.
+- [fs2-rabbit](https://gvolpe.github.io/fs2-rabbit/): RabbitMQ stream-based client built on top of Fs2.
+- [fs2-redis](https://gvolpe.github.io/fs2-redis/): Redis stream-based client built on top of Fs2.
 - [http4s-tracer](https://github.com/gvolpe/http4s-tracer): a request tracer log for your application built on top of Http4s.
 
 ### Open Source contributions
