@@ -2,6 +2,12 @@
 title: Public Talks
 ---
 
+### Tokyo Scala Meetup (June 2018) - Tokyo, Japan
+
+- [Cats Effect: The IO Monad for Scala](https://www.meetup.com/Tokyo-Scala-Developers/events/250976376/)
+
+[![typelevel](/img/talks/typelevel.png)](https://www.meetup.com/Tokyo-Scala-Developers/events/250976376/)
+
 ### Scala Matsuri (March 2018) - Tokyo, Japan
 
 - [Building an HTTP REST API using Http4s: Abstracting over the effect type](http://www.youtube.com/watch?v=pGfj_l-h3M8)
