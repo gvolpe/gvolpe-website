@@ -12,7 +12,7 @@ title: Public Talks
 
 - [Building an HTTP REST API using Http4s: Abstracting over the effect type](http://www.youtube.com/watch?v=pGfj_l-h3M8)
 
-[![http4s](http://img.youtube.com/vi/pGfj_l-h3M8/0.jpg)](http://www.youtube.com/watch?v=pGfj_l-h3M8 "Scala Matsuri 2018")
+[![http4s](/img/talks/scala-matsuri.jpg)](http://www.youtube.com/watch?v=pGfj_l-h3M8 "Scala Matsuri 2018")
 
 ### Dublin Scala Meetup (November 2017) - Dublin, Ireland
 

@@ -2,6 +2,7 @@
 ## About Page: `hexo new page about`
 menu:
   HOME:   /
+  BLOG POSTS: /blogposts
   TALKS:  /talks
   FLOSS:  /floss
 
