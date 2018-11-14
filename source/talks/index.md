@@ -2,9 +2,21 @@
 title: Public Talks
 ---
 
+### Scala eXchange (December 2018) - London, UK
+
+- [Cats Effect: Tagless Final & beyond!](https://skillsmatter.com/conferences/10488-scala-exchange-2018#progra://skillsmatter.com/conferences/10488-scala-exchange-2018#program)
+
+[![scalax](/img/talks/scalax.png)](https://skillsmatter.com/conferences/10488-scala-exchange-2018#progra://skillsmatter.com/conferences/10488-scala-exchange-2018#program)
+
+### Scala IO (October 2018) - Lyon, France
+
+- [Cats Effect: The IO Monad for Scala](https://scala.io/)
+
+[![scalaio](/img/talks/scalaio.png)](https://scala.io/)
+
 ### Tokyo Scala Meetup (June 2018) - Tokyo, Japan
 
-- [Cats Effect: The IO Monad for Scala](https://www.meetup.com/Tokyo-Scala-Developers/events/250976376/)
+- [Cats Effect: The IO Monad for Scala](https://paidy.github.io/talks/tokyo2018-cats-effect/)
 
 [![typelevel](/img/talks/typelevel.png)](https://www.meetup.com/Tokyo-Scala-Developers/events/250976376/)
 
