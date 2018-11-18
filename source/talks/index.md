@@ -8,6 +8,12 @@ title: Public Talks
 
 [![scalax](/img/talks/scalax.png)](https://skillsmatter.com/conferences/10488-scala-exchange-2018#progra://skillsmatter.com/conferences/10488-scala-exchange-2018#program)
 
+### Scale by the Bay (November 2018) - San Francisco, USA
+
+- [Http4s error handling with classy optics](https://github.com/gvolpe/classy-optics)
+
+[![sbtb](/img/talks/sbtb.png)](http://scale.bythebay.io/)
+
 ### Scala IO (October 2018) - Lyon, France
 
 - [Cats Effect: The IO Monad for Scala](https://scala.io/)
