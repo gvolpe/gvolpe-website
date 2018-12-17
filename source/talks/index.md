@@ -4,9 +4,9 @@ title: Public Talks
 
 ### Scala eXchange (December 2018) - London, UK
 
-- [Cats Effect: Tagless Final & beyond!](https://skillsmatter.com/conferences/10488-scala-exchange-2018#progra://skillsmatter.com/conferences/10488-scala-exchange-2018#program)
+- [Cats Effect: Tagless Final & beyond!](https://skillsmatter.com/skillscasts/12634-cats-effect-tagless-final-and-beyond)
 
-[![scalax](/img/talks/scalax.png)](https://skillsmatter.com/conferences/10488-scala-exchange-2018#progra://skillsmatter.com/conferences/10488-scala-exchange-2018#program)
+[![scalax](/img/talks/scalax.png)](https://skillsmatter.com/skillscasts/12634-cats-effect-tagless-final-and-beyond)
 
 ### Scale by the Bay (November 2018) - San Francisco, USA
 

@@ -5,7 +5,8 @@ date: 2018-09-15 19:37:12
 
 ### Typelevel Blog - Guest Author
 
-[[Aug 2018] - Http4s error handling with Cats Meow MTL](https://typelevel.org/blog/2018/08/25/http4s-error-handling-mtl.html)
+[[Nov 2018] - Error handling in Http4s with classy optics - Part 2](https://typelevel.org/blog/2018/08/25/http4s-error-handling-mtl-2.html)
+[[Aug 2018] - Error handling in Http4s with classy optics](https://typelevel.org/blog/2018/08/25/http4s-error-handling-mtl.html)
 [[Jun 2018] - Shared State in Functional Programming](https://typelevel.org/blog/2018/06/07/shared-state-in-fp.html)
 [[May 2018] - Tagless Final algebras and Streaming](https://typelevel.org/blog/2018/05/09/tagless-final-streaming.html)
 
