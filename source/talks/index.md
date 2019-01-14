@@ -6,17 +6,17 @@ title: Public Talks
 
 - [Cats Effect: Tagless Final & beyond!](https://skillsmatter.com/skillscasts/12634-cats-effect-tagless-final-and-beyond)
 
-[![scalax](/img/talks/scalax.png)](https://skillsmatter.com/skillscasts/12634-cats-effect-tagless-final-and-beyond)
+[![scalax](/img/talks/scalax.png)](https://skillsmatter.com/conferences/10488-scala-exchange-2018)
 
 ### Scale by the Bay (November 2018) - San Francisco, USA
 
 - [Http4s error handling with classy optics](https://www.youtube.com/watch?v=UUX5KvPgejM)
 
-[![sbtb](/img/talks/sbtb.png)](https://www.youtube.com/watch?v=UUX5KvPgejM)
+[![sbtb](/img/talks/sbtb.png)](http://scale.bythebay.io/)
 
 ### Scala IO (October 2018) - Lyon, France
 
-- [Cats Effect: The IO Monad for Scala](https://scala.io/)
+- [Cats Effect: The IO Monad for Scala](https://www.youtube.com/watch?v=8_TWM2t97r4)
 
 [![scalaio](/img/talks/scalaio.png)](https://scala.io/)
 
@@ -30,7 +30,7 @@ title: Public Talks
 
 - [Building an HTTP REST API using Http4s: Abstracting over the effect type](http://www.youtube.com/watch?v=pGfj_l-h3M8)
 
-[![http4s](/img/talks/scala-matsuri.jpg)](http://www.youtube.com/watch?v=pGfj_l-h3M8 "Scala Matsuri 2018")
+[![http4s](/img/talks/scala-matsuri.jpg)](http://2018.scalamatsuri.org/index_en.html)
 
 ### Dublin Scala Meetup (November 2017) - Dublin, Ireland
 
