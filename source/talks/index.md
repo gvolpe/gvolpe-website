@@ -10,9 +10,9 @@ title: Public Talks
 
 ### Scale by the Bay (November 2018) - San Francisco, USA
 
-- [Http4s error handling with classy optics](https://github.com/gvolpe/classy-optics)
+- [Http4s error handling with classy optics](https://www.youtube.com/watch?v=UUX5KvPgejM)
 
-[![sbtb](/img/talks/sbtb.png)](http://scale.bythebay.io/)
+[![sbtb](/img/talks/sbtb.png)](https://www.youtube.com/watch?v=UUX5KvPgejM)
 
 ### Scala IO (October 2018) - Lyon, France
 
