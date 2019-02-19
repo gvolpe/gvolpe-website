@@ -14,7 +14,7 @@ date: 2018-04-28 11:55:34
 
 ### Open Source contributions
 
-[![dotty](/img/floss/dotty.png)](https://github.com/lampepfl/dotty/graphs/contributors)    [![cats-effect](/img/floss/cats.png)](https://github.com/typelevel/cats-effect/graphs/contributors)    [![http4s](/img/floss/http4s.png)](https://github.com/http4s/http4s/graphs/contributors)    [![fs2](/img/floss/fs2.png)](https://github.com/functional-streams-for-scala/fs2/graphs/contributors)    [![circe](/img/floss/circe.png)](https://github.com/circe/circe/graphs/contributors)    [![tsec](/img/floss/generic.png)](https://github.com/jmcardon/tsec/graphs/contributors)   [![fs2-cassandra](/img/floss/cassandra.png)](https://github.com/Spinoco/fs2-cassandra/graphs/contributors)
+[![dotty](/img/floss/dotty.png)](https://github.com/lampepfl/dotty/graphs/contributors)    [![cats-effect](/img/floss/cats.png)](https://github.com/typelevel/cats-effect/graphs/contributors)    [![http4s](/img/floss/http4s.png)](https://github.com/http4s/http4s/graphs/contributors)    [![fs2](/img/floss/fs2.png)](https://github.com/functional-streams-for-scala/fs2/graphs/contributors)    [![circe](/img/floss/circe.png)](https://github.com/circe/circe/graphs/contributors)    [![fs2-cassandra](/img/floss/cassandra.png)](https://github.com/Spinoco/fs2-cassandra/graphs/contributors)    [![unison](/img/floss/unison.png)](https://github.com/unisonweb/unison/graphs/contributors)
 
 - I have mainly contributed to a variety of Open Source libraries in the Scala ecosystem.
 - Minor contributions to Open Source libraries in other languages like Haskell and Vim.
