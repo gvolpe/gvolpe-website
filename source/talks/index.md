@@ -2,6 +2,12 @@
 title: Public Talks
 ---
 
+### Tokyo Scala Meetup (February 2019) - Tokyo, Japan
+
+- [Haskell for Scala developers](https://paidy.github.io/talks/tokyo2019-haskell/)
+
+[![haskell](/img/talks/haskell-scala.png)](https://www.meetup.com/Tokyo-Scala-Developers/events/258586177/)
+
 ### Scala eXchange (December 2018) - London, UK
 
 - [Cats Effect: Tagless Final & beyond!](https://skillsmatter.com/skillscasts/12634-cats-effect-tagless-final-and-beyond)
