@@ -2,9 +2,10 @@
 ## About Page: `hexo new page about`
 menu:
   HOME:   /
-  BLOG POSTS: /blogposts
+  BLOG:   /blog
   TALKS:  /talks
   FLOSS:  /floss
+  POSTS:  /blogposts
 
 # Link to your avatar
 avatar: img/profile.png
