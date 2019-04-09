@@ -2,6 +2,12 @@
 title: Public Talks
 ---
 
+### Scalar (April 2019) - Warsaw, Poland
+
+- [Up your MTL game with classy optics](http://scalar-conf.com/)
+
+[![scalar](/img/talks/scalar.png)](http://scalar-conf.com/)
+
 ### Tokyo Scala Meetup (February 2019) - Tokyo, Japan
 
 - [Haskell for Scala developers](https://paidy.github.io/talks/tokyo2019-haskell/)
