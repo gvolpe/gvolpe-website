@@ -4,7 +4,7 @@ title: Public Talks
 
 ### Scalar (April 2019) - Warsaw, Poland
 
-- [Up your MTL game with classy optics](http://scalar-conf.com/)
+- [Up your MTL game with classy optics](https://paidy.github.io/talks/scalar2019/)
 
 [![scalar](/img/talks/scalar.png)](http://scalar-conf.com/)
 
@@ -46,18 +46,18 @@ title: Public Talks
 
 ### Dublin Scala Meetup (November 2017) - Dublin, Ireland
 
-- [Cats Effect: The IO Monad for Cats](https://www.meetup.com/Dublin-Scala-users-group/events/245073335)
+- [Cats Effect: The IO Monad for Cats](https://slides.com/volpegabriel/cats-effect#/)
 
 [![dublin](/img/talks/dublin.png)](https://www.meetup.com/Dublin-Scala-users-group/events/245073335)
 
 ### Brabant Scala Meetup (July 2017) - Eindhoven, Netherlands
 
-- [Fs2 + Cats Effect](https://www.meetup.com/brabant-scala/events/241394892)
+- [Fs2 + Cats Effect](https://slides.com/volpegabriel/fs2#/)
 
 [![fs2](/img/talks/fs2.png)](https://www.meetup.com/brabant-scala/events/241394892)
 
 ### Eindhoven Haskell Meetup (June 2017) - Eindhoven, Netherlands
 
-- [Functional Data Validation in Haskell](https://www.meetup.com/Eindhoven-Haskell-Meetup/events/240066834)
+- [Functional Data Validation in Haskell](https://slides.com/volpegabriel/functional-data-validation#/)
 
 [![haskell](/img/talks/haskell.png)](https://www.meetup.com/Eindhoven-Haskell-Meetup/events/240066834)
