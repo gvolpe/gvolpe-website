@@ -2,7 +2,7 @@
 title: About me
 ---
 
-I am a passionate Software Engineer that has been writing code for +15 years (a half of my life), eventually fell in love with Functional Programming and never looked back.
+I am a passionate Software Engineer that has been writing code for +15 years (a half of my life), eventually fell in love with Functional Programming (FP) and never looked back.
 
 Fairly familiar with advanced FP concepts such as Type Theory and Category Theory. Big fan of streaming applications.
 
@@ -12,4 +12,4 @@ These days I write Scala in a pure FP fashion for a living, using cool libraries
 
 ### Haskell
 
-I do enjoy writing Haskell and I have introduced it at my current job. I am familiar with libraries such as `conduit`, `dhall`, `lens`, `mtl` and `servant` among others. I also like to contribute to OSS projects.
+I do enjoy writing Haskell and I have introduced it at my current job. I am familiar with libraries such as `conduit`, `dhall`, `lens`, `mtl` and `servant` among others.
