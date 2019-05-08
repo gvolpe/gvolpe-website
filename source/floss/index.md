@@ -5,12 +5,12 @@ date: 2018-04-28 11:55:34
 
 ### Library Author
 
-[![console4cats](/img/floss/cats.png)](https://gvolpe.github.io/console4cats/)   [![fs2-rabbit](/img/floss/fs2-rabbit.png)](https://gvolpe.github.io/fs2-rabbit/)   [![fs2-redis](/img/floss/fs2-redis.png)](https://gvolpe.github.io/fs2-redis/)   [![http4s-tracer](/img/floss/http4s-tracer.png)](https://gvolpe.github.io/http4s-tracer/)
+[![console4cats](/img/floss/cats.png)](https://console4cats.profunktor.dev/)   [![fs2-rabbit](/img/floss/fs2-rabbit.png)](https://fs2-rabbit.profunktor.dev/)   [![redis4cats](/img/floss/redis4cats.png)](https://redis4cats.profunktor.dev/)   [![http4s-tracer](/img/floss/http4s-tracer.png)](https://http4s-tracer.profunktor.dev/)
 
-- [console4cats](https://gvolpe.github.io/console4cats/): Effect-type agnostic Console I/O for Cats Effect.
-- [fs2-rabbit](https://gvolpe.github.io/fs2-rabbit/): RabbitMQ stream-based client built on top of Fs2.
-- [fs2-redis](https://gvolpe.github.io/fs2-redis/): Redis stream-based client built on top of Fs2.
-- [http4s-tracer](https://gvolpe.github.io/http4s-tracer/): End to end tracing system for Http4s.
+- [console4cats](https://console4cats.profunktor.dev/): Effect-type agnostic Console I/O for Cats Effect.
+- [fs2-rabbit](https://fs2-rabbit.profunktor.dev/): RabbitMQ stream-based client built on top of Fs2.
+- [fs2-redis](https://redis4cats.profunktor.dev/): Redis stream-based client built on top of Fs2.
+- [http4s-tracer](https://http4s-tracer.profunktor.dev/): End to end tracing system for Http4s.
 - [split-morphism](http://hackage.haskell.org/package/split-morphism-0.1.0.0): Lenses extension: split epimorphisms and split monomorphisms.
 
 ### Open Source contributions
@@ -21,7 +21,7 @@ date: 2018-04-28 11:55:34
 - Minor contributions to Open Source libraries in other languages like Haskell and Vim.
 
 ### Others
-[![smart-backpacker](/img/floss/sb.png)](https://github.com/SmartBackpacker/core/graphs/contributors)  [![typelevel-stack.g8](/img/floss/typelevel.png)](https://github.com/gvolpe/typelevel-stack.g8)
+[![smart-backpacker](/img/floss/sb.png)](https://github.com/SmartBackpacker)  [![typelevel-stack.g8](/img/floss/typelevel.png)](https://github.com/gvolpe/typelevel-stack.g8)
 
 - Creator of the [Smart Backpacker](http://www.smartbackpackerapp.com/) idea, Android app and backend.
 - Unofficial Giter8 template for the Typelevel Stack (Http4s / Doobie / Circe / Cats Effect / Fs2) based on Cats v1.x.x.
