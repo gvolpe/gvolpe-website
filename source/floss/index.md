@@ -9,8 +9,8 @@ date: 2018-04-28 11:55:34
 
 - [console4cats](https://console4cats.profunktor.dev/): Effect-type agnostic Console I/O for Cats Effect.
 - [fs2-rabbit](https://fs2-rabbit.profunktor.dev/): RabbitMQ stream-based client built on top of Fs2.
-- [fs2-redis](https://redis4cats.profunktor.dev/): Redis stream-based client built on top of Fs2.
 - [http4s-tracer](https://http4s-tracer.profunktor.dev/): End to end tracing system for Http4s.
+- [redis4cats](https://redis4cats.profunktor.dev/): Redis client for Cats Effect & Fs2.
 - [split-morphism](http://hackage.haskell.org/package/split-morphism-0.1.0.0): Lenses extension: split epimorphisms and split monomorphisms.
 
 ### Open Source contributions
@@ -21,7 +21,8 @@ date: 2018-04-28 11:55:34
 - Minor contributions to Open Source libraries in other languages like Haskell and Vim.
 
 ### Others
-[![smart-backpacker](/img/floss/sb.png)](https://github.com/SmartBackpacker)  [![typelevel-stack.g8](/img/floss/typelevel.png)](https://github.com/gvolpe/typelevel-stack.g8)
+[![smart-backpacker](/img/floss/sb.png)](https://github.com/SmartBackpacker)  [![typelevel-stack.g8](/img/floss/typelevel.png)](https://github.com/profunktor/typelevel-stack.g8)  [![exchange-rates](/img/floss/money-exchange.png)](https://github.com/gvolpe/exchange-rates)
 
 - Creator of the [Smart Backpacker](http://www.smartbackpackerapp.com/) idea, Android app and backend.
 - Unofficial Giter8 template for the Typelevel Stack (Http4s / Doobie / Circe / Cats Effect / Fs2) based on Cats v1.x.x.
+- Exchange rates API written in Haskell and using Redis as a cache.
