@@ -2,6 +2,12 @@
 title: Public Talks
 ---
 
+### Scala MDE Meetup (August 2019) - Medellín, Colombia
+
+- [Entering a purely functional world](https://slides.com/volpegabriel/purely-functional-world)
+
+[![mde](/img/talks/fp-world.png)](https://www.meetup.com/ScalaMDE/events/263423621/)
+
 ### Scalar (April 2019) - Warsaw, Poland
 
 - [Up your MTL game with classy optics](https://paidy.github.io/talks/scalar2019/)
