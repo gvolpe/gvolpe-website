@@ -20,9 +20,14 @@ date: 2018-04-28 11:55:34
 - I have mainly contributed to a variety of Open Source libraries in the Scala ecosystem.
 - Minor contributions to Open Source libraries in other languages like Haskell and Vim.
 
-### Others
-[![smart-backpacker](/img/floss/sb.png)](https://github.com/SmartBackpacker)  [![typelevel-stack.g8](/img/floss/typelevel.png)](https://github.com/profunktor/typelevel-stack.g8)  [![exchange-rates](/img/floss/money-exchange.png)](https://github.com/gvolpe/exchange-rates)
+### Open Source applications
+[![smart-backpacker](/img/floss/sb.png)](https://github.com/SmartBackpacker)  [![exchange-rates](/img/floss/money-exchange.png)](https://github.com/gvolpe/exchange-rates)  [![musikell](/img/floss/music.png)](https://github.com/gvolpe/musikell)
 
 - Creator of the [Smart Backpacker](http://www.smartbackpackerapp.com/) idea, Android app and backend.
+- Exchange rates API written in Haskell using Redis as a cache.
+- GraphQL and Neo4j API written in Haskell that retrieves data from Spotify.
+
+### Others
+[![typelevel-stack.g8](/img/floss/typelevel.png)](https://github.com/profunktor/typelevel-stack.g8)
+
 - Unofficial Giter8 template for the Typelevel Stack (Http4s / Doobie / Circe / Cats Effect / Fs2) based on Cats v1.x.x.
-- Exchange rates API written in Haskell and using Redis as a cache.
