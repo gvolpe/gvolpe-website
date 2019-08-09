@@ -6,7 +6,7 @@ title: Public Talks
 
 - [Entering a purely functional world](https://slides.com/volpegabriel/purely-functional-world)
 
-[![mde](/img/talks/fp-world.png)](https://www.meetup.com/ScalaMDE/events/263423621/)
+[![mde](/img/talks/medellin.png)](https://www.meetup.com/ScalaMDE/events/263423621/)
 
 ### Scalar (April 2019) - Warsaw, Poland
 
