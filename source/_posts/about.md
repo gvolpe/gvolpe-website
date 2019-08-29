@@ -2,9 +2,9 @@
 title: About me
 ---
 
-I am a passionate Software Engineer that has been writing code for +15 years (a half of my life), eventually fell in love with Functional Programming (FP) and never looked back.
+I am a passionate Software Engineer that has been joyfully writing code since I was 15 years old, eventually fell in love with Functional Programming (FP) and never looked back.
 
-Fairly familiar with advanced functional programming concepts. Big fan of concurrency and functional effects.
+Fairly familiar with advanced functional programming concepts. Big fan of concurrency, functional effects and static typing.
 
 ### Scala
 
