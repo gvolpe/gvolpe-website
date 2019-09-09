@@ -2,6 +2,12 @@
 title: Public Talks
 ---
 
+### Quito Lambda Meetup (September 2019) - Quito, Ecuador
+
+- [Why types matter](https://slides.com/volpegabriel/why-types-matter)
+
+[![quito](/img/talks/quito.png)](https://www.meetup.com/Quito-Lambda-Meetup/)
+
 ### Scala MDE Meetup (August 2019) - Medellín, Colombia
 
 - [Entering a purely functional world](https://slides.com/volpegabriel/purely-functional-world)
