@@ -2,11 +2,11 @@
 title: Public Talks
 ---
 
-### Quito Lambda Meetup (September 2019) - Quito, Ecuador
+### Stack Builders (September 2019) - Quito, Ecuador
 
 - [Why types matter](https://slides.com/volpegabriel/why-types-matter)
 
-[![quito](/img/talks/quito.png)](https://www.meetup.com/Quito-Lambda-Meetup/)
+[![quito](/img/talks/quito.png)](https://www.stackbuilders.com/)
 
 ### Scala MDE Meetup (August 2019) - Medellín, Colombia
 
