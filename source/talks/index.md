@@ -2,6 +2,18 @@
 title: Public Talks
 ---
 
+### MVD Scala Meetup (December 2019) - Montevideo, Uruguay
+
+- [Why Functional Programming](https://slides.com/volpegabriel/why-fp)
+
+[![mvd](/img/talks/mvd.png)](https://www.meetup.com/Scala-Meetup-MVD/events/266902706/)
+
+### SUGAR Scala Meetup (December 2019) - Buenos Aires, Argentina
+
+- [FP Design Patterns](https://slides.com/volpegabriel/fp-design-patterns)
+
+[![sugar](/img/talks/sugar.png)](https://www.meetup.com/scala_ar/events/266399009/)
+
 ### Stack Builders (September 2019) - Quito, Ecuador
 
 - [Why types matter](https://slides.com/volpegabriel/why-types-matter)

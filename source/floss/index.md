@@ -9,6 +9,7 @@ date: 2018-04-28 11:55:34
 
 - [console4cats](https://console4cats.profunktor.dev/): Effect-type agnostic Console I/O for Cats Effect.
 - [fs2-rabbit](https://fs2-rabbit.profunktor.dev/): RabbitMQ stream-based client built on top of Fs2.
+- [http4s-jwt-auth](https://http4s-jwt-auth.profunktor.dev/): Opinionated JWT authentication library for Http4s.
 - [http4s-tracer](https://http4s-tracer.profunktor.dev/): End to end tracing system for Http4s.
 - [redis4cats](https://redis4cats.profunktor.dev/): Redis client for Cats Effect & Fs2.
 - [split-morphism](http://hackage.haskell.org/package/split-morphism-0.1.0.0): Lenses extension: split epimorphisms and split monomorphisms.
