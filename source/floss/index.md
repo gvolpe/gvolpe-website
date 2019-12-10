@@ -5,7 +5,7 @@ date: 2018-04-28 11:55:34
 
 ### Library Author
 
-[![console4cats](/img/floss/cats.png)](https://console4cats.profunktor.dev/)   [![fs2-rabbit](/img/floss/fs2-rabbit.png)](https://fs2-rabbit.profunktor.dev/)   [![redis4cats](/img/floss/redis4cats.png)](https://redis4cats.profunktor.dev/)   [![http4s-tracer](/img/floss/http4s-tracer.png)](https://http4s-tracer.profunktor.dev/)
+[![console4cats](/img/floss/cats.png)](https://console4cats.profunktor.dev/)   [![fs2-rabbit](/img/floss/fs2-rabbit.png)](https://fs2-rabbit.profunktor.dev/)   [![http4s-jwt-auth](/img/floss/jwt.png)](https://http4s-jwt-auth.profunktor.dev/)   [![http4s-tracer](/img/floss/http4s-tracer.png)](https://http4s-tracer.profunktor.dev/)   [![redis4cats](/img/floss/redis4cats.png)](https://redis4cats.profunktor.dev/)
 
 - [console4cats](https://console4cats.profunktor.dev/): Effect-type agnostic Console I/O for Cats Effect.
 - [fs2-rabbit](https://fs2-rabbit.profunktor.dev/): RabbitMQ stream-based client built on top of Fs2.
@@ -30,7 +30,7 @@ date: 2018-04-28 11:55:34
 
 [![smart-backpacker](/img/floss/sb.png)](https://github.com/SmartBackpacker)  [![exchange-rates](/img/floss/money-exchange.png)](https://github.com/gvolpe/exchange-rates)  [![musikell](/img/floss/music.png)](https://github.com/gvolpe/musikell)
 
-- Creator of the [Smart Backpacker](http://www.smartbackpackerapp.com/) idea, Android app and backend.
+- Creator of the [Smart Backpacker](https://github.com/SmartBackpacker) idea, Android app and backend.
 - Exchange rates API written in Haskell using Redis as a cache.
 - GraphQL and Neo4j API written in Haskell that retrieves data from Spotify.
 
