@@ -9,3 +9,6 @@ Proficient with Haskell and Scala. Nix enthusiast.
 ### [Practical FP in Scala: A hands-on approach](https://leanpub.com/pfp-scala)
 
 Author of this advanced Scala book, embracing functional programming in the enterprise.
+
+[![book](img/pfps.png)](https://leanpub.com/pfp-scala)
+
