@@ -2,6 +2,18 @@
 title: Public Talks
 ---
 
+### Functional Tricity #20 (April 2020) - Remote
+
+- [Why Types Matter (Haskell Edition)](https://www.youtube.com/watch?v=rGi3Rf6r1fI)
+
+[![wtmh](/img/talks/wtmh.png)](https://slides.com/volpegabriel/types-matter-ft/)
+
+### Scala Love (April 2020) - Remote
+
+- [Why Types Matter](https://slides.com/volpegabriel/scala-love-types-matter)
+
+[![love](/img/talks/love.png)](https://scala.love/conf/)
+
 ### MVD Scala Meetup (December 2019) - Montevideo, Uruguay
 
 - [Why Functional Programming](https://slides.com/volpegabriel/why-fp)
