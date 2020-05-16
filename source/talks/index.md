@@ -32,7 +32,7 @@ title: Public Talks
 
 [![quito](/img/talks/quito.png)](https://www.stackbuilders.com/)
 
-### Scala MDE Meetup (August 2019) - Medellín, Colombia
+### Scala MDE Meetup (August 2019) - Medellin, Colombia
 
 - [Entering a purely functional world](https://slides.com/volpegabriel/purely-functional-world)
 
@@ -40,9 +40,9 @@ title: Public Talks
 
 ### Scalar (April 2019) - Warsaw, Poland
 
-- [Up your MTL game with classy optics](https://paidy.github.io/talks/scalar2019/)
+- [Up your MTL game with classy optics](https://www.youtube.com/watch?v=gYnbOUGpWK0)
 
-[![scalar](/img/talks/scalar.png)](http://scalar-conf.com/)
+[![scalar](/img/talks/scalar.png)](https://paidy.github.io/talks/scalar2019/)
 
 ### Tokyo Scala Meetup (February 2019) - Tokyo, Japan
 
