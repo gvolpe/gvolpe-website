@@ -5,7 +5,4 @@ in
     my_project = drv.shell;
     name = "site";
     buildInputs = [];
-    shellHook = ''
-      npm install
-    '';
   }
