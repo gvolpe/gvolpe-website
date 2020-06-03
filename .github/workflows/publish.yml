@@ -1,0 +1,27 @@
+jobs:
+  publish:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: "actions/checkout@v2.1.0"
+      - uses: "cachix/install-nix-action@v9"
+      - uses: "cachix/cachix-action@v6"
+        with:
+          name: gvolpe-site
+          signingKey: "${{ secrets.CACHIX_SIGNING_KEY }}"
+      - name: "Building site 🚧"
+        run: "nix-shell --run \"hexo generate\""
+      - name: "Deploy 🚀"
+        uses: "JamesIves/github-pages-deploy-action@3.5.3"
+        with:
+          ACCESS_TOKEN: "${{ secrets.ACCESS_TOKEN }}"
+          BRANCH: master
+          FOLDER: "public"
+          REPOSITORY_NAME: "gvolpe/gvolpe.github.io"
+name: Site
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - "source/**"
+      - "themes/**"
