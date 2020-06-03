@@ -9,7 +9,7 @@ jobs:
           name: gvolpe-site
           signingKey: "${{ secrets.CACHIX_SIGNING_KEY }}"
       - name: "Building site 🚧"
-        run: "nix-shell --run \"hexo generate\""
+        run: "nix-shell --run \"npm install && hexo generate\""
       - name: "Deploy 🚀"
         uses: "JamesIves/github-pages-deploy-action@3.5.3"
         with:
