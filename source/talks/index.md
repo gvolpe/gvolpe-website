@@ -12,7 +12,7 @@ title: Public Talks
 
 - [Why Types Matter](https://slides.com/volpegabriel/scala-love-types-matter)
 
-[![love](/img/talks/love.png)](https://scala.love/conf/)
+[![love](/img/talks/love.png)](https://www.youtube.com/watch?v=n1Y2V4zCZdQ)
 
 ### MVD Scala Meetup (December 2019) - Montevideo, Uruguay
 
