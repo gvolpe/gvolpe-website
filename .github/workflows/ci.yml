@@ -1,0 +1,18 @@
+jobs:
+  build:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: "actions/checkout@v2.1.0"
+      - uses: "cachix/install-nix-action@v9"
+      - uses: "cachix/cachix-action@v6"
+        with:
+          name: gvolpe-site
+          signingKey: "${{ secrets.CACHIX_SIGNING_KEY }}"
+      - name: "Building site 🚧"
+        run: "nix-shell --run \"npm install && hexo generate\""
+name: Site
+on:
+  pull_request: {}
+  push:
+    branches:
+      - master
