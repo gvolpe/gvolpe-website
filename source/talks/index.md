@@ -18,7 +18,7 @@ title: Public Talks
 
 - [Why Functional Programming](https://slides.com/volpegabriel/why-fp)
 
-[![wfpmvd](/img/talks/mvd.png)](https://www.meetup.com/Scala-Meetup-MVD/events/266902706/)
+[![wfp-mvd](/img/talks/mvd.png)](https://www.meetup.com/Scala-Meetup-MVD/events/266902706/)
 
 ### SUGAR Scala Meetup (December 2019) - Buenos Aires, Argentina
 
