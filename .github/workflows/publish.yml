@@ -4,7 +4,7 @@ jobs:
     steps:
       - uses: "actions/checkout@v2.1.0"
         with:
-          persist-credentials: false
+          persist-credentials: 'false'
       - uses: "cachix/install-nix-action@v9"
       - uses: "cachix/cachix-action@v6"
         with:
@@ -17,9 +17,9 @@ jobs:
         with:
           ACCESS_TOKEN: "${{ secrets.ACCESS_TOKEN }}"
           BRANCH: master
-          FOLDER: "public"
-          GIT_CONFIG_NAME: "Gabriel Volpe"
-          REPOSITORY_NAME: "gvolpe/gvolpe.github.io"
+          FOLDER: public
+          GIT_CONFIG_NAME: Gabriel Volpe
+          REPOSITORY_NAME: gvolpe/gvolpe.github.io
 name: Site
 on:
   push:
